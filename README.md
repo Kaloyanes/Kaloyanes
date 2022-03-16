@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+I am Kaloyan from Bulgaria, and i am currently a student at PGEE, Burgas. I enjoy learning and learn fast.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaloyanStoyanov06)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KaloyanStoyanov06/KaloyanStoyanov06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
