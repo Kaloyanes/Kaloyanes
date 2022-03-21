@@ -13,5 +13,5 @@ Skills: C#, Python, Flutter, HTML, CSS, JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaloyanStoyanov06&show_icons=true&count_private=true&theme=github_dark)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanStoyanov06&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)=
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanStoyanov06&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
