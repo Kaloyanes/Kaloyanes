@@ -70,6 +70,8 @@ I am currently a student at PGEE, Burgas 15y. I love learning new stuff. I learn
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanStoyanov06&hide_border=true&layout=compact&theme=github_dark" align="center"/>
 
+<img src="https://wakatime.com/share/@b6e9d204-c1b8-494f-8c73-0e9239bb6a54/156ce725-2eff-4261-acbe-781a470783ed.svg" align="center"/>
+
 <br/>  
 
   
