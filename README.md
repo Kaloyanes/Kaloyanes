@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-I am currently a student at PGEE, Burgas 16y. I love learning new stuff. I learn fast about new technologies. I try to help others in their journey of CS.  
+I am currently a student at PGEE, Burgas 17y. I love learning new stuff. I learn fast about new technologies. I try to help others in their journey of CS.  
   
 
 <br/>  
