@@ -23,15 +23,15 @@
 
 
 ### Glad to see you here!  
-I am currently a student at PGEE, Burgas 17y. I love learning new stuff. I learn fast about new technologies. I try to help others in their journey of CS.  
+I am currently a student at PGEE, Burgas 18y. I love learning new stuff. I learn fast about new technologies. I try to help others in their journey of CS.  
   
 
 <br/>  
 
-- 🔭 I’m currently working on my portfolio  
+- 🔭 I’m currently working on DIGIPAY confernece website, Truck Fleet (my biggest and largest project up to date), Hotelier (A hotel managment software) and Young Influencers (a mobile app)  
   
 
-- 🌱 I’m currently learning C# (**Mastering**), Flutter (**Mastering**)  
+- 🌱 I’m currently learning Next.JS, Flutter (**Mastering**)  
   
 
 - 📫 How to reach me: kaloyangfx@gmail.com  
@@ -66,9 +66,9 @@ I am currently a student at PGEE, Burgas 17y. I love learning new stuff. I learn
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaloyanStoyanov06&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kaloyanes&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanStoyanov06&hide_border=true&layout=compact&theme=github_dark" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaloyanes&hide_border=true&layout=compact&theme=github_dark" align="center"/>
 
 <br/>  
 
