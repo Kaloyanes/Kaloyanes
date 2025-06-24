@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-I am currently a student at PGEE, Burgas 18y. I love learning new stuff. I learn fast about new technologies. I try to help others in their journey of CS.  
+Hi! I’m an 18-year-old graduate of PGEE in Burgas with a strong passion for technology and continuous learning. I quickly adapt to new tools and frameworks, and I'm always looking to deepen my understanding of modern development practices.
   
 
 <br/>  
