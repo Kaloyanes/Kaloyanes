@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-Hi! I’m an 18-year-old graduate of PGEE in Burgas with a strong passion for technology and continuous learning. I quickly adapt to new tools and frameworks, and I'm always looking to deepen my understanding of modern development practices.
+Hi! I’m an 19-year-old graduate of PGEE in Burgas with a strong passion for technology and continuous learning. I quickly adapt to new tools and frameworks, and I'm always looking to deepen my understanding of modern development practices.
   
 
 <br/>  
@@ -31,7 +31,7 @@ Hi! I’m an 18-year-old graduate of PGEE in Burgas with a strong passion for te
 - 🔭 I’m currently working on DIGIPAY confernece website, Truck Fleet (my biggest and largest project up to date), Hotelier (A hotel managment software) and Young Influencers (a mobile app)  
   
 
-- 🌱 I’m currently learning Next.JS, Flutter (**Mastering**)  
+- 🌱 I’m currently learning Next.JS, React Native with Expo 
   
 
 - 📫 How to reach me: kaloyangfx@gmail.com  
@@ -60,17 +60,6 @@ Hi! I’m an 18-year-old graduate of PGEE in Burgas with a strong passion for te
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kaloyanes&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaloyanes&hide_border=true&layout=compact&theme=github_dark" align="center"/>
-
-<br/>  
 
   
 
